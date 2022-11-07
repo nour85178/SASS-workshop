@@ -1,0 +1,25 @@
+.text textarea h1 {
+  color: red;
+  font-size: 20px;
+}
+
+.btn {
+  border: 3px solid yellow;
+}
+
+div {
+  background-color: red;
+}
+div p {
+  color: #FFF;
+}
+
+.text1 {
+  content: "HTML5";
+}
+
+.text2 {
+  content: "React";
+}
+
+/*# sourceMappingURL=workshop2.css.map */
